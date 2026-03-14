@@ -1,5 +1,6 @@
 # Giving-
-Discribtion: This project focuses on creating and managing a complete digital marketing strategy for a charity organization with the goal of increasing awareness, maximizing reach, and driving donations and community engagement.
+Discribtion: This project focuses on creating and managing a complete digital marketing strategy for Digital Youth Summit Dakahlia
+Develop and manage social media marketing activities to increase awareness and engagement for DYS Dakahlia. Created digital content, support campaign promotion, and help reach youth audiences interested in technology and digital skills.
 Team members: Alaa Hassan Ahmed Hassan Khalil , Fatma Alaa Eldin Mahmoud Mohamed Barakat , Mariam Elsayed Ahmed Elknany , Alaa sherif saad elbadry
 Instructor : Tamer Elmoghazy
 [Alaa Khalil internal analysis.pdf](https://github.com/user-attachments/files/25818887/Alaa.Khalil.internal.analysis.pdf)
