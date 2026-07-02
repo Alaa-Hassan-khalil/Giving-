@@ -2,12 +2,12 @@
 - Discribtion: This project focuses on creating and managing a complete digital marketing strategy for Digital Youth Summit Dakahlia (DYS)
 - Develop and manage social media marketing activities to increase awareness and engagement for DYS Dakahlia. Created digital content, support campaign promotion, and help reach youth audiences interested in technology and digital skills.
 - Team members:
-- Alaa Hassan Ahmed Hassan Khalil
-- Fatma Alaa Eldin Mahmoud Mohamed Barakat
-- Mariam Elsayed Ahmed Elknany
-- Alaa sherif saad elbadry
+- Alaa Hassan Ahmed Hassan Khalil - Project Management & Strategy - • Led the project planning and team coordination.• Distributed tasks and monitored progress.• Developed the Business Model Canvas (BMC).• Conducted Market Analysis and SWOT Analysis.• Created SMART Objectives.• Prepared the final presentation and ensured consistency across all sections.• Reviewed and finalized the project before submission.
+- Fatma Alaa Eldin Mahmoud Mohamed Barakat - Content Strategy & Social Media - • Designed the Content Calendar.• Planned social media content strategy.• Created post ideas and engagement campaigns.• Managed social media account analysis (Facebook Page & Group).• Organized posting schedule and content categories.
+- Mariam Elsayed Ahmed Elknany - Marketing Research Specialist - • Developed Buyer Personas.• Defined the Unique Selling Proposition (USP).• Prepared the Marketing Mix (4Ps & 7Ps).• Conducted customer and competitor research.• Assisted in market insights and recommendations.
+- Alaa sherif saad elbadry - Digital Marketing & Performance - • Developed the Media Buying (Advertising) Plan.• Created campaign objectives and targeting strategy.• Prepared the Marketing Control plan.• Defined KPIs and performance monitoring methods.• Developed recommendations and corrective actions based on campaign performance.
 - Instructor : Tamer Elmoghazy
-- social media links
+- social media links:
 - https://www.facebook.com/profile.php?id=61575432631312
 - https://www.facebook.com/dys.dakahlia
 - https://www.facebook.com/groups/627155159568556
